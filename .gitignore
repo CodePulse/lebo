@@ -1,0 +1,25 @@
+*.bak
+*.swp
+
+*.idea*
+*.DS_Store
+wp-config.php
+wp-config*
+
+wp-content/uploads*
+wp-content/cache*
+
+*/error_log
+.user.ini
+
+wp-content/wflogs*
+
+node_modules
+
+# Store provisioning configuration within local root, but separate repo for
+# security.
+provisioners*
+
+_wpeprivate*
+wp-content/updraft*
+
